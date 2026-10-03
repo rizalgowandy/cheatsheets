@@ -1,10 +1,10 @@
 ---
 title: React.js (v0.14)
 category: React
-layout: 2017/sheet
 deprecated: true
+deprecated_by: /react
 intro: |
-  **Deprecated:** this guide targets an old version of React (v0.14). See the [updated React cheatsheet](react) for new versions.
+  This guide targets an old version of React (v0.14). See the [updated React cheatsheet](react) for new versions.
 ---
 
 {%raw%}
